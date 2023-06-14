@@ -1,0 +1,10 @@
+jupyter
+jupyterlab
+jupyterlab-vim
+matplotlib
+pandas
+pandera
+poetry
+pydantic
+numpy
+seaborn
